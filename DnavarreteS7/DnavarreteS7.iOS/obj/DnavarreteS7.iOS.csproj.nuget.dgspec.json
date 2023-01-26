@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7.iOS/DnavarreteS7.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7.iOS/DnavarreteS7.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7.iOS/DnavarreteS7.iOS.csproj",
+        "projectName": "DnavarreteS7.iOS",
+        "projectPath": "/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7.iOS/DnavarreteS7.iOS.csproj",
+        "packagesPath": "/Users/davidnavarrete/.nuget/packages/",
+        "outputPath": "/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/davidnavarrete/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/DnavarreteS7.csproj": {
+                "projectPath": "/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/DnavarreteS7.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/DnavarreteS7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/DnavarreteS7.csproj",
+        "projectName": "DnavarreteS7",
+        "projectPath": "/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/DnavarreteS7.csproj",
+        "packagesPath": "/Users/davidnavarrete/.nuget/packages/",
+        "outputPath": "/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davidnavarrete/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/davidnavarrete/Library/Caches/VisualStudio/17.0/MSBuild/7833_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

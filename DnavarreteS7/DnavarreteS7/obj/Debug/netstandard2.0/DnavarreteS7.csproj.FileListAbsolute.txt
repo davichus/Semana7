@@ -1,0 +1,17 @@
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/DnavarreteS7.csproj.AssemblyReference.cache
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/ConsultaRegistro.xaml.g.cs
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/Elemento.xaml.g.cs
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/Login.xaml.g.cs
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/Registro.xaml.g.cs
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/DnavarreteS7.AssemblyInfoInputs.cache
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/DnavarreteS7.AssemblyInfo.cs
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/DnavarreteS7.csproj.CoreCompileInputs.cache
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/DnavarreteS7.dll
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/ref/DnavarreteS7.dll
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/DnavarreteS7.pdb
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/bin/Debug/netstandard2.0/DnavarreteS7.deps.json
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/bin/Debug/netstandard2.0/DnavarreteS7.dll
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/bin/Debug/netstandard2.0/ref/DnavarreteS7.dll
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/bin/Debug/netstandard2.0/DnavarreteS7.pdb
+/Users/davidnavarrete/Projects/DnavarreteS7/DnavarreteS7/DnavarreteS7/obj/Debug/netstandard2.0/XamlC.stamp
