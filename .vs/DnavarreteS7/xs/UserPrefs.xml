@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{72132AF7-0E09-4386-9513-1008B2B6410C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DnavarreteS7/DnavarreteS7/Login.xaml">
+    <Files>
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.D8.targets" Line="81" Column="5" />
+      <File FileName="DnavarreteS7/DnavarreteS7/Login.xaml" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DnavarreteS7" expanded="True">
+            <Node name="DnavarreteS7" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.emulator-5554" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DnavarreteS7.Android PreferredExecutionTarget="Android.pixel_5_-_api_27" />
+</Properties>

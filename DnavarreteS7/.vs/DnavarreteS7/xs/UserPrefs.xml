@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{72132AF7-0E09-4386-9513-1008B2B6410C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DnavarreteS7/DnavarreteS7/ConsultaRegistro.xaml.cs">
+    <Files>
+      <File FileName="DnavarreteS7/DnavarreteS7/DataBase.cs" />
+      <File FileName="DnavarreteS7/DnavarreteS7.Android/SqlCliente.cs" Line="20" Column="1" />
+      <File FileName="DnavarreteS7/DnavarreteS7/Estudiante.cs" Line="17" Column="34" />
+      <File FileName="DnavarreteS7/DnavarreteS7/Login.xaml" Line="13" Column="23" />
+      <File FileName="DnavarreteS7/DnavarreteS7/Login.xaml.cs" Line="29" Column="119" />
+      <File FileName="DnavarreteS7/DnavarreteS7/Registro.xaml" />
+      <File FileName="DnavarreteS7/DnavarreteS7/Registro.xaml.cs" />
+      <File FileName="DnavarreteS7/DnavarreteS7/ConsultaRegistro.xaml" Line="25" Column="1" />
+      <File FileName="DnavarreteS7/DnavarreteS7/ConsultaRegistro.xaml.cs" Line="32" Column="10" />
+      <File FileName="DnavarreteS7/DnavarreteS7/Elemento.xaml" Line="10" Column="63" />
+      <File FileName="DnavarreteS7/DnavarreteS7/Elemento.xaml.cs" Line="48" Column="33" />
+      <File FileName="DnavarreteS7/DnavarreteS7/App.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DnavarreteS7" expanded="True">
+            <Node name="DnavarreteS7" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="ConsultaRegistro.xaml" expanded="True">
+                <Node name="ConsultaRegistro.xaml.cs" selected="True" />
+              </Node>
+              <Node name="Elemento.xaml" expanded="True" />
+              <Node name="Login.xaml" expanded="True" />
+              <Node name="Registro.xaml" expanded="True" />
+            </Node>
+            <Node name="DnavarreteS7.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_27" />
+  <MonoDevelop.Ide.ItemProperties.DnavarreteS7.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DnavarreteS7.Android PreferredExecutionTarget="Android.pixel_5_-_api_27" />
+</Properties>
